@@ -2,8 +2,6 @@
 
 This repository contains parts for running cable around the wall of a living room for discrete hi-fi installations.
 
-![Clamp on tube](photos/IMG_7522.JPG)
-
 ## Motivation
 
 I previously used white boxing/conduit and found it ugly and hard to manage.
