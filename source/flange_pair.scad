@@ -2,7 +2,7 @@ $fn = 200;
 
 include <flange.scad>
 
-total_wall_depth = 120;
+total_wall_depth = 110;
 hole_radius = 45/2;
 tube_thickness = 2.5;
 
